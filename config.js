@@ -28,7 +28,7 @@ const CONFIG = {
             secretAnswer: "Uhmmmm, YESS! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me? falling in love with you, and haven't wanted to fall more as I do now.",                          // For the love meter
+            text: "How much do you like me? I'm falling in love with you, and haven't wanted to fall so much as I do now.",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -43,14 +43,14 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond Yeah! 🚀💝",              // Shows when they go past 1000%
+        high: "To the Stars and beyond my baby! 🚀💝",              // Shows when they go past 1000%
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! Can't wait to see you so I can tell you all these things while you sit across me! 🎉💝💖💝💓",
-        message: "Now come get your gift, next week Saturday at a picnic!",
+        message: "Now let's step it up together, next week Saturday at a picnic!",
         emojis: "💎❤️💕"  // These will bounce around
     },
 
